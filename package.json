@@ -1,0 +1,8 @@
+{
+  "name": "CRUD-node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CaioIOX/CRUD-node.js.git",
+  "author": "Caio Ícaro <zeroaz819@gmail.com>",
+  "license": "MIT"
+}
