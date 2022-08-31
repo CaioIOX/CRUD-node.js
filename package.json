@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/CaioIOX/CRUD-node.js.git",
   "author": "Caio Ícaro <zeroaz819@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
