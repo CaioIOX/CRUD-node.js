@@ -5,7 +5,13 @@
   "repository": "https://github.com/CaioIOX/CRUD-node.js.git",
   "author": "Caio Ícaro <zeroaz819@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
